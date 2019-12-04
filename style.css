@@ -1,0 +1,11 @@
+.clicked{
+    color: red;
+    transition: color
+}
+.unClicked{
+    color: purple;
+}
+.btn {
+cursor: pointer;
+
+}
